@@ -1,0 +1,8 @@
+{
+  "name": "Mr. Plumber 2.0",
+  "description": "Plomería and residential plumbing expertise in Charlottesville, Virginia — CPVC, Cast Iron, PEX-A, PEX-B, Copper, PVC, and ABS pipe systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
